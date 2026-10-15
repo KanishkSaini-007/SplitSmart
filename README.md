@@ -4,7 +4,7 @@
 
 Vanilla HTML, CSS and JavaScript. No account, installation, tracking or backend.
 
-![SplitSmart desktop interface with fictional weekend expenses](9-desktop.png)
+![SplitSmart desktop interface with fictional weekend expenses](desktop.svg)
 
 ## What it does
 
@@ -50,7 +50,7 @@ node math.test.cjs
 
 ## Mobile preview
 
-<img src="10-mobile-390.png" width="340" alt="SplitSmart responsive mobile view with fictional data">
+<img src="mobile-390.svg" width="340" alt="SplitSmart responsive mobile view with fictional data">
 
 ## Project layout
 
