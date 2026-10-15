@@ -1,5 +1,7 @@
 # SplitSmart ↗
 
+[Open live app](https://kanishksaini-007.github.io/SplitSmart/)
+
 **Less math. More memories.** A small, private expense splitter for dinners, trips and everything friends share.
 
 Vanilla HTML, CSS and JavaScript. No account, installation, tracking or backend.
